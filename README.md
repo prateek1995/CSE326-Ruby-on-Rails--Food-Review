@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+This is a Project to list the Recipes based on a search term
 
-* Ruby version
+The default search parameter is 'chicken'- which return the recipes sorted by reviews from customers
 
-* System dependencies
+visit the app on the following link:
+ https://foodrecipesite.herokuapp.com/
+ 
+You obtain a list of recipes made with chicken sorted from the best
 
-* Configuration
+If you want to search for your own custom string
 
-* Database creation
+https://foodrecipesite.herokuapp.com/?looking_for=pizza
 
-* Database initialization
+replace the pizza with your custom string
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Thank You!
